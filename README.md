@@ -8,6 +8,9 @@
 
 ## Hi there, I'm Ivan Tulin <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+### 📫 Contact me
+- Telegram: [@yorokobeshonen](https://t.me/yorokobeshonen)
+- Gmail: i.tulin0107@gmail.com
 
 ### 📚 Degree:
 Bachelor degree
