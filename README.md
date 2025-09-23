@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=7000&pause=1000&color=14F713&center=true&width=435&height=90&lines=ANDROID+DEVELOPER" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=7000&pause=1000&color=14F713&center=true&vCenter=true&width=500&lines=Computer+vision+engineer" alt="Typing SVG" /></a>
 </p>
 
 ## Hi there, I'm Ivan Tulin <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
